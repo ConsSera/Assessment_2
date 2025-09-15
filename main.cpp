@@ -3,7 +3,7 @@
 using namespace std; // standard namespace to avoid std:: prefix 
 
 class Item { // defining a class for representing the items
-    public: // Making its variables accessible from outside the class
+    public: // Making it's variables accessible from outside the class
     string code; // product code (e.g. "A1")
     string name; // product name (e.g. "Coffee")
     string category; // category (e.g. "Hot", "Cold", "Snack")
